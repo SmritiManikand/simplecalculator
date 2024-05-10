@@ -272,12 +272,6 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-
-EMULATOR WITH CODE
-
-<img width="959" alt="s3" src="https://github.com/SmritiManikand/simplecalculator/assets/113674204/8fb304f4-a631-401c-a589-92b1199c8e7e">
-
-
 SIMPLE CALCULATOR
 
 <img width="205" alt="s4" src="https://github.com/SmritiManikand/simplecalculator/assets/113674204/88527468-1828-438c-8207-92bfc9eff426">
